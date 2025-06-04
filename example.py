@@ -1,3 +1,3 @@
 print("Hello, world")
-print("Bye")
-print("good")
+print("Bye, World")
+print("warlrlrlrla")
